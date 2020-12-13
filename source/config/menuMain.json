@@ -1,0 +1,80 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },   
+  {
+    "id": 0,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "branding",
+    "title": "1. Branding",    
+    "path": "pages/tema-1.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "branding",
+        "title": "1.1 Marca y branding",
+        "anchor": "tema1_1"
+      }        
+    ]   
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "segmentacion",
+    "title": "2. Segmentación",    
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "segmentacion",
+        "title": "2.1 Definición",
+        "anchor": "tema2_1"
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "segmentacion",
+        "title": "2.2 Proceso de segmentación",
+        "anchor": "tema2_2"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "segmentacion",
+        "title": "2.3 Procesos alternativos para análisis del target",
+        "anchor": "tema2_3"
+      }     
+    ]   
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "buyer_persona",
+    "title": "3. Buyer persona",    
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "buyer_persona",
+        "title": "3.1 Ejemplos de Buyer Persona",
+        "anchor": "tema3_1"
+      }
+    ]     
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-question",
+    "slug": "actividad",
+    "title": "actividad didáctica",    
+    "path": "pages/actividad-1.html"       
+  }
+]
