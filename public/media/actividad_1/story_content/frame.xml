@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SENA - Actividad Did&amp;#225;ctica 01" />
+              <option name="title_text" value="SENA - Actividad Didactica 01" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1138,6 +1138,7 @@
       <string id="acc_closed_captions">Subtítulos cerrados. Presiona la barra de espacio para activar y desactivar los subtítulos.</string>
       <string id="acc_definition">definición</string>
       <string id="acc_finish">finalizar</string>
+      <string id="acc_locked">bloqueado</string>
       <string id="acc_next">siguiente</string>
       <string id="acc_pause">pausa</string>
       <string id="acc_play">Reproducir</string>
@@ -1148,6 +1149,7 @@
       <string id="acc_skipnavigation">Volver a la diapositiva</string>
       <string id="acc_submit">presentar</string>
       <string id="acc_submitall">enviar todo</string>
+      <string id="acc_visited">visitado</string>
       <string id="acc_volume">volumen</string>
       <string id="accessible_text">Texto accesible</string>
       <string id="acctext_shortcut">Activar/Desactivar texto accesible</string>
@@ -1173,6 +1175,7 @@
       <string id="finish">FINALIZAR</string>
       <string id="glossary">Glosario</string>
       <string id="keyboardshortcuts">Atajos de teclado</string>
+      <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="mobile_start">Comenzar el curso</string>
       <string id="more_info">Más información</string>
       <string id="mute_shortcut">Silenciar/Desactivar silencio</string>
@@ -1210,6 +1213,10 @@
       <string id="submit_tip">Enviar</string>
       <string id="submitall">ENVIAR TODO</string>
       <string id="terms">Condiciones</string>
+      <string id="three_image_item">ítem</string>
+      <string id="three_image_items">ítems</string>
+      <string id="three_image_of">de</string>
+      <string id="three_image_viewed">vistos</string>
       <string id="togglezoom">Alternar los modos de zoom</string>
       <string id="transcript">Notas</string>
       <string id="transcript_chk">Notas</string>
